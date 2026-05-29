@@ -1,0 +1,41 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Gurt AI Privacy Policy</title>
+<style>
+  body { font-family: -apple-system, sans-serif; max-width: 720px; margin: 40px auto; padding: 20px; line-height: 1.6; color: #222; }
+  h1 { border-bottom: 1px solid #eee; padding-bottom: 10px; }
+  h2 { margin-top: 30px; }
+</style>
+</head>
+<body>
+<h1>Gurt AI Privacy Policy</h1>
+<p><em>Last updated: May 29, 2026</em></p>
+
+<p>Gurt AI ("we", "us") respects your privacy. This policy explains what we collect and how we use it.</p>
+
+<h2>Information We Collect</h2>
+<ul>
+  <li><strong>Account:</strong> email, display name, username, profile photo.</li>
+  <li><strong>Content you create:</strong> recipes, photos, ingredient lists.</li>
+  <li><strong>Camera and photos:</strong> images you choose to scan or upload. We process them to extract ingredients or display them in the app.</li>
+  <li><strong>Usage:</strong> cooking streaks, saved recipes, follows, likes.</li>
+</ul>
+
+<h2>How We Use It</h2>
+<p>To provide the app's features: generate recipes from your ingredients, save your recipes, show you to other users you choose to share with, and let you follow friends.</p>
+
+<h2>Third Parties</h2>
+<p>We use Supabase for backend storage and authentication, and Anthropic's Claude API for recipe generation and image analysis. Photos sent for analysis are processed and not retained by Anthropic beyond the request.</p>
+
+<h2>Data Deletion</h2>
+<p>You can clear your saved recipes in Settings. To delete your account and all associated data, email us at the contact below.</p>
+
+<h2>Children</h2>
+<p>Gurt AI is not directed at children under 13.</p>
+
+<h2>Contact</h2>
+<p>Questions? Reach us at <a href="https://instagram.com/trygurtai">@trygurtai on Instagram</a>.</p>
+</body>
+</html>
